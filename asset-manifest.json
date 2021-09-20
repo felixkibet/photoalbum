@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/photoalbum/static/js/main.cb4e61f3.chunk.js",
+    "main.js.map": "/photoalbum/static/js/main.cb4e61f3.chunk.js.map",
+    "runtime-main.js": "/photoalbum/static/js/runtime-main.683c55f2.js",
+    "runtime-main.js.map": "/photoalbum/static/js/runtime-main.683c55f2.js.map",
+    "static/js/2.3eee838b.chunk.js": "/photoalbum/static/js/2.3eee838b.chunk.js",
+    "static/js/2.3eee838b.chunk.js.map": "/photoalbum/static/js/2.3eee838b.chunk.js.map",
+    "index.html": "/photoalbum/index.html",
+    "static/js/2.3eee838b.chunk.js.LICENSE.txt": "/photoalbum/static/js/2.3eee838b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.683c55f2.js",
+    "static/js/2.3eee838b.chunk.js",
+    "static/js/main.cb4e61f3.chunk.js"
+  ]
+}
